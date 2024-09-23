@@ -11,7 +11,7 @@
 }
 
 body {
-    background: #fff url(./img/fundo-body.jpg) center center no-repeat fixed;
+    background: #fff url(../img/fundo-body.jpg) center center no-repeat fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -20,7 +20,7 @@ body {
 }
 
 main {
-    background: #754343 url(./img/fundo-main.jpg) center bottom no-repeat fixed;
+    background: #754343 url(../img/fundo-main.jpg) center bottom no-repeat fixed;
     background-size: cover;
     box-shadow: #6b024c50 1px 1px 20px 3px;
     color: #fff;
